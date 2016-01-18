@@ -1,0 +1,12 @@
+FILE QUARANTINED
+
+The University Email Service Attachment Filter has removed the original attachment from this email because its file extension is restricted for security purposes.
+
+File name: "OS.zip->RestaurantEmulator.jar"
+Filter name: "FILE FILTER= File Extension Filter List: *.jar"
+
+For more information about the Attachment Filter service and what file extensions are identified as potentially malicious, go to our knowledge base article at ocio.osu.edu/KB04250.
+
+THE OHIO STATE UNIVERSITY | Office of the Chief Information Officer 
+IT Service Desk: ocio.osu.edu/help, 614-688-HELP (4357)
+Follow @TechOhioState on Twitter for timely tips.

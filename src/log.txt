@@ -1,0 +1,882 @@
+
+
+2014/12/05 15:04:05  Current Time : 0
+2014/12/05 15:04:05  Current Time : 1
+2014/12/05 15:04:05  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:05  Number of diners in the restaurant : 1
+2014/12/05 15:04:05  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:05  Number of diners in the restaurant : 1
+2014/12/05 15:04:05  Diner-0 : waiting on tables for a table
+2014/12/05 15:04:05  Cook-2 : waiting on tables for a table
+2014/12/05 15:04:05  Number of diners in the restaurant : 1
+2014/12/05 15:04:05  Diner-0 : seated on Table-0
+2014/12/05 15:04:05  Cook-1 : assigned to Table-0
+2014/12/05 15:04:05  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:05  Number of diners in the restaurant : 1
+2014/12/05 15:04:05  Cook-1 : waiting for diner to place order
+2014/12/05 15:04:05  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:05  Diner-0 : placed order
+2014/12/05 15:04:05  Number of diners in the restaurant : 1
+2014/12/05 15:04:05  Diner-0 : waiting on table for cook
+2014/12/05 15:04:05  Diner-0 : waiting on table for food
+2014/12/05 15:04:05  Cook-1 : looking for machines
+2014/12/05 15:04:05  Cook-1 : BurgerMachine occupied
+2014/12/05 15:04:05  Cook-1 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:05  Current Time : 2
+2014/12/05 15:04:05  Diner-1 : waiting on tables for a table
+2014/12/05 15:04:05  Diner-1 : seated on Table-1
+2014/12/05 15:04:05  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:05  Cook-0 : assigned to Table-1
+2014/12/05 15:04:05  Number of diners in the restaurant : 2
+2014/12/05 15:04:05  Cook-0 : waiting for diner to place order
+2014/12/05 15:04:05  Cook-2 : waiting on tables for a table
+2014/12/05 15:04:05  Diner-1 : placed order
+2014/12/05 15:04:05  Number of diners in the restaurant : 2
+2014/12/05 15:04:05  Diner-1 : waiting on table for cook
+2014/12/05 15:04:05  Diner-1 : waiting on table for food
+2014/12/05 15:04:05  Cook-0 : looking for machines
+2014/12/05 15:04:05  Cook-0 : SodaMachine occupied
+2014/12/05 15:04:05  Cook-0 : Cooking on SodaMachine for time 1
+2014/12/05 15:04:05  Cook-0 : Done cooking and leaving SodaMachine
+2014/12/05 15:04:05  Cook-0 : looking for machines
+2014/12/05 15:04:05  Diner-2 : waiting on tables for a table
+2014/12/05 15:04:05  Current Time : 3
+2014/12/05 15:04:05  Cook-2 : assigned to Table-2
+2014/12/05 15:04:05  Cook-2 : waiting for diner to place order
+2014/12/05 15:04:05  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:05  Number of diners in the restaurant : 3
+2014/12/05 15:04:05  Diner-2 : seated on Table-2
+2014/12/05 15:04:05  Diner-2 : placed order
+2014/12/05 15:04:05  Cook-2 : looking for machines
+2014/12/05 15:04:05  Cook-2 : FriesMachine occupied
+2014/12/05 15:04:05  Cook-2 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:05  Diner-2 : waiting on table for cook
+2014/12/05 15:04:05  Diner-2 : waiting on table for food
+2014/12/05 15:04:06  Current Time : 4
+2014/12/05 15:04:06  Diner-3 : waiting on tables for a table
+2014/12/05 15:04:06  Diner-3 : seated on Table-3
+2014/12/05 15:04:06  Cook-3 : assigned to Table-3
+2014/12/05 15:04:06  Cook-3 : waiting for diner to place order
+2014/12/05 15:04:06  Current Time : 5
+2014/12/05 15:04:06  Diner-4 : waiting on tables for a table
+2014/12/05 15:04:06  Diner-3 : placed order
+2014/12/05 15:04:06  Diner-3 : waiting on table for cook
+2014/12/05 15:04:06  Diner-4 : seated on Table-4
+2014/12/05 15:04:06  Diner-4 : placed order
+2014/12/05 15:04:06  Diner-4 : waiting on table for cook
+2014/12/05 15:04:06  Diner-3 : waiting on table for food
+2014/12/05 15:04:06  Cook-3 : looking for machines
+2014/12/05 15:04:06  Cook-2 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:06  Cook-2 : looking for machines
+2014/12/05 15:04:06  Cook-3 : FriesMachine occupied
+2014/12/05 15:04:06  Cook-3 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:06  Current Time : 6
+2014/12/05 15:04:06  Diner-5 : waiting on tables for a table
+2014/12/05 15:04:06  Diner-5 : seated on Table-5
+2014/12/05 15:04:06  Diner-5 : placed order
+2014/12/05 15:04:06  Diner-5 : waiting on table for cook
+2014/12/05 15:04:06  Current Time : 7
+2014/12/05 15:04:06  Diner-6 : waiting on tables for a table
+2014/12/05 15:04:06  Current Time : 8
+2014/12/05 15:04:06  Current Time : 9
+2014/12/05 15:04:06  Cook-3 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:06  Cook-3 : looking for machines
+2014/12/05 15:04:06  Current Time : 10
+2014/12/05 15:04:06  Current Time : 11
+2014/12/05 15:04:06  Cook-1 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:06  Cook-1 : looking for machines
+2014/12/05 15:04:06  Cook-1 : FriesMachine occupied
+2014/12/05 15:04:06  Cook-1 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:06  Cook-0 : BurgerMachine occupied
+2014/12/05 15:04:06  Cook-0 : Cooking on BurgerMachine for time 20
+2014/12/05 15:04:06  Current Time : 12
+2014/12/05 15:04:06  Current Time : 13
+2014/12/05 15:04:06  Current Time : 14
+2014/12/05 15:04:06  Cook-1 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:06  Food served for Cook-1
+2014/12/05 15:04:06  Cook-1 : assigned to Table-5
+2014/12/05 15:04:06  Diner-6 : waiting on tables for a table
+2014/12/05 15:04:06  Diner-0 : Started Eating
+2014/12/05 15:04:06  Cook-1 : waiting for diner to place order
+2014/12/05 15:04:06  Cook-1 : looking for machines
+2014/12/05 15:04:06  Diner-5 : waiting on table for food
+2014/12/05 15:04:06  Cook-1 : FriesMachine occupied
+2014/12/05 15:04:06  Cook-1 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:06  Current Time : 15
+2014/12/05 15:04:06  Current Time : 16
+2014/12/05 15:04:06  Current Time : 17
+2014/12/05 15:04:06  Cook-1 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:06  Cook-1 : looking for machines
+2014/12/05 15:04:06  Current Time : 18
+2014/12/05 15:04:06  Current Time : 19
+2014/12/05 15:04:06  Current Time : 20
+2014/12/05 15:04:06  Current Time : 21
+2014/12/05 15:04:06  Current Time : 22
+2014/12/05 15:04:07  Current Time : 23
+2014/12/05 15:04:07  Current Time : 24
+2014/12/05 15:04:07  Current Time : 25
+2014/12/05 15:04:07  Current Time : 26
+2014/12/05 15:04:07  Current Time : 27
+2014/12/05 15:04:07  Current Time : 28
+2014/12/05 15:04:07  Current Time : 29
+2014/12/05 15:04:07  Current Time : 30
+2014/12/05 15:04:07  Current Time : 31
+2014/12/05 15:04:07  Cook-3 : BurgerMachine occupied
+2014/12/05 15:04:07  Cook-0 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:07  Food served for Cook-0
+2014/12/05 15:04:07  Cook-3 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:07  Diner-6 : waiting on tables for a table
+2014/12/05 15:04:07  Diner-1 : Started Eating
+2014/12/05 15:04:07  Cook-0 : assigned to Table-4
+2014/12/05 15:04:07  Cook-0 : waiting for diner to place order
+2014/12/05 15:04:07  Cook-0 : looking for machines
+2014/12/05 15:04:07  Cook-0 : SodaMachine occupied
+2014/12/05 15:04:07  Cook-0 : Cooking on SodaMachine for time 1
+2014/12/05 15:04:07  Diner-4 : waiting on table for food
+2014/12/05 15:04:07  Current Time : 32
+2014/12/05 15:04:07  Cook-0 : Done cooking and leaving SodaMachine
+2014/12/05 15:04:07  Cook-0 : looking for machines
+2014/12/05 15:04:07  Current Time : 33
+2014/12/05 15:04:07  Current Time : 34
+2014/12/05 15:04:07  Current Time : 35
+2014/12/05 15:04:07  Current Time : 36
+2014/12/05 15:04:07  Current Time : 37
+2014/12/05 15:04:07  Current Time : 38
+2014/12/05 15:04:07  Current Time : 39
+2014/12/05 15:04:07  Current Time : 40
+2014/12/05 15:04:07  Cook-3 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:07  Current Time : 41
+2014/12/05 15:04:07  Cook-0 : BurgerMachine occupied
+2014/12/05 15:04:07  Diner-7 : waiting on tables for a table
+2014/12/05 15:04:07  Food served for Cook-3
+2014/12/05 15:04:07  Cook-0 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:07  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:07  Diner-3 : Started Eating
+2014/12/05 15:04:07  Number of diners in the restaurant : 8
+2014/12/05 15:04:07  Current Time : 42
+2014/12/05 15:04:07  Diner-8 : waiting on tables for a table
+2014/12/05 15:04:08  Current Time : 43
+2014/12/05 15:04:08  Diner-9 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-0 : released Table-0
+2014/12/05 15:04:08  Diner-9 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-8 : waiting on tables for a table
+2014/12/05 15:04:08  Current Time : 44
+2014/12/05 15:04:08  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:08  Number of diners in the restaurant : 10
+2014/12/05 15:04:08  Diner-7 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-6 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-6 : seated on Table-0
+2014/12/05 15:04:08  Diner-6 : placed order
+2014/12/05 15:04:08  Diner-6 : waiting on table for cook
+2014/12/05 15:04:08  Diner-7 : waiting on tables for a table
+2014/12/05 15:04:08  Cook-3 : assigned to Table-0
+2014/12/05 15:04:08  Diner-8 : waiting on tables for a table
+2014/12/05 15:04:08  Cook-3 : waiting for diner to place order
+2014/12/05 15:04:08  Diner-9 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-6 : waiting on table for food
+2014/12/05 15:04:08  Cook-3 : looking for machines
+2014/12/05 15:04:08  Cook-3 : FriesMachine occupied
+2014/12/05 15:04:08  Cook-3 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:08  Diner-10 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-7 : waiting on tables for a table
+2014/12/05 15:04:08  Current Time : 45
+2014/12/05 15:04:08  Diner-11 : waiting on tables for a table
+2014/12/05 15:04:08  Current Time : 46
+2014/12/05 15:04:08  Diner-12 : waiting on tables for a table
+2014/12/05 15:04:08  Cook-3 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:08  Cook-3 : looking for machines
+2014/12/05 15:04:08  Current Time : 47
+2014/12/05 15:04:08  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:08  Cook-3 : SodaMachine occupied
+2014/12/05 15:04:08  Cook-3 : Cooking on SodaMachine for time 1
+2014/12/05 15:04:08  Current Time : 48
+2014/12/05 15:04:08  Cook-3 : Done cooking and leaving SodaMachine
+2014/12/05 15:04:08  Cook-3 : looking for machines
+2014/12/05 15:04:08  Current Time : 49
+2014/12/05 15:04:08  Current Time : 50
+2014/12/05 15:04:08  Current Time : 51
+2014/12/05 15:04:08  Cook-0 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:08  Food served for Cook-0
+2014/12/05 15:04:08  Cook-1 : BurgerMachine occupied
+2014/12/05 15:04:08  Diner-4 : Started Eating
+2014/12/05 15:04:08  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:08  Number of diners in the restaurant : 13
+2014/12/05 15:04:08  Cook-1 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:08  Current Time : 52
+2014/12/05 15:04:08  Current Time : 53
+2014/12/05 15:04:08  Current Time : 54
+2014/12/05 15:04:08  Current Time : 55
+2014/12/05 15:04:08  Current Time : 56
+2014/12/05 15:04:08  Current Time : 57
+2014/12/05 15:04:08  Current Time : 58
+2014/12/05 15:04:08  Current Time : 59
+2014/12/05 15:04:08  Current Time : 60
+2014/12/05 15:04:08  Current Time : 61
+2014/12/05 15:04:08  Diner-1 : released Table-1
+2014/12/05 15:04:08  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:08  Number of diners in the restaurant : 12
+2014/12/05 15:04:08  Cook-1 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:08  Food served for Cook-1
+2014/12/05 15:04:08  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:08  Cook-3 : BurgerMachine occupied
+2014/12/05 15:04:08  Diner-12 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-11 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-7 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-5 : Started Eating
+2014/12/05 15:04:08  Diner-10 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-7 : seated on Table-1
+2014/12/05 15:04:08  Diner-7 : placed order
+2014/12/05 15:04:08  Diner-7 : waiting on table for cook
+2014/12/05 15:04:08  Cook-3 : Cooking on BurgerMachine for time 5
+2014/12/05 15:04:08  Diner-9 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-8 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-11 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-12 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:08  Cook-0 : assigned to Table-1
+2014/12/05 15:04:08  Cook-1 : waiting on tables for a table
+2014/12/05 15:04:08  Number of diners in the restaurant : 12
+2014/12/05 15:04:08  Cook-0 : waiting for diner to place order
+2014/12/05 15:04:08  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-12 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-11 : waiting on tables for a table
+2014/12/05 15:04:08  Cook-0 : looking for machines
+2014/12/05 15:04:08  Diner-7 : waiting on table for food
+2014/12/05 15:04:08  Diner-8 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-9 : waiting on tables for a table
+2014/12/05 15:04:08  Diner-10 : waiting on tables for a table
+2014/12/05 15:04:08  Cook-0 : FriesMachine occupied
+2014/12/05 15:04:08  Cook-0 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:09  Current Time : 62
+2014/12/05 15:04:09  Current Time : 63
+2014/12/05 15:04:09  Current Time : 64
+2014/12/05 15:04:09  Cook-0 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:09  Cook-0 : looking for machines
+2014/12/05 15:04:09  Current Time : 65
+2014/12/05 15:04:09  Current Time : 66
+2014/12/05 15:04:09  Cook-2 : BurgerMachine occupied
+2014/12/05 15:04:09  Cook-2 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:09  Cook-3 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:09  Food served for Cook-3
+2014/12/05 15:04:09  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:09  Number of diners in the restaurant : 12
+2014/12/05 15:04:09  Diner-6 : Started Eating
+2014/12/05 15:04:09  Current Time : 67
+2014/12/05 15:04:09  Current Time : 68
+2014/12/05 15:04:09  Current Time : 69
+2014/12/05 15:04:09  Current Time : 70
+2014/12/05 15:04:09  Current Time : 71
+2014/12/05 15:04:09  Diner-3 : released Table-3
+2014/12/05 15:04:09  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:09  Number of diners in the restaurant : 11
+2014/12/05 15:04:09  Diner-10 : waiting on tables for a table
+2014/12/05 15:04:09  Diner-9 : waiting on tables for a table
+2014/12/05 15:04:09  Diner-8 : waiting on tables for a table
+2014/12/05 15:04:09  Diner-8 : seated on Table-3
+2014/12/05 15:04:09  Diner-8 : placed order
+2014/12/05 15:04:09  Diner-8 : waiting on table for cook
+2014/12/05 15:04:09  Diner-11 : waiting on tables for a table
+2014/12/05 15:04:09  Diner-12 : waiting on tables for a table
+2014/12/05 15:04:09  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:09  Cook-1 : assigned to Table-3
+2014/12/05 15:04:09  Cook-1 : waiting for diner to place order
+2014/12/05 15:04:09  Cook-1 : looking for machines
+2014/12/05 15:04:09  Diner-8 : waiting on table for food
+2014/12/05 15:04:09  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:09  Cook-1 : SodaMachine occupied
+2014/12/05 15:04:09  Cook-1 : Cooking on SodaMachine for time 1
+2014/12/05 15:04:09  Diner-12 : waiting on tables for a table
+2014/12/05 15:04:09  Diner-11 : waiting on tables for a table
+2014/12/05 15:04:09  Diner-9 : waiting on tables for a table
+2014/12/05 15:04:09  Diner-10 : waiting on tables for a table
+2014/12/05 15:04:09  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:09  Number of diners in the restaurant : 11
+2014/12/05 15:04:09  Current Time : 72
+2014/12/05 15:04:09  Cook-1 : Done cooking and leaving SodaMachine
+2014/12/05 15:04:09  Cook-1 : looking for machines
+2014/12/05 15:04:09  Current Time : 73
+2014/12/05 15:04:09  Current Time : 74
+2014/12/05 15:04:09  Current Time : 75
+2014/12/05 15:04:09  Current Time : 76
+2014/12/05 15:04:09  Cook-0 : BurgerMachine occupied
+2014/12/05 15:04:09  Cook-2 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:09  Food served for Cook-2
+2014/12/05 15:04:09  Cook-2 : waiting on tables for a table
+2014/12/05 15:04:09  Diner-2 : Started Eating
+2014/12/05 15:04:09  Number of diners in the restaurant : 11
+2014/12/05 15:04:09  Cook-0 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:09  Current Time : 77
+2014/12/05 15:04:09  Current Time : 78
+2014/12/05 15:04:09  Current Time : 79
+2014/12/05 15:04:09  Current Time : 80
+2014/12/05 15:04:10  Diner-4 : released Table-4
+2014/12/05 15:04:10  Cook-2 : waiting on tables for a table
+2014/12/05 15:04:10  Number of diners in the restaurant : 10
+2014/12/05 15:04:10  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:10  Number of diners in the restaurant : 10
+2014/12/05 15:04:10  Diner-10 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-9 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-9 : seated on Table-4
+2014/12/05 15:04:10  Diner-9 : placed order
+2014/12/05 15:04:10  Diner-9 : waiting on table for cook
+2014/12/05 15:04:10  Diner-11 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-12 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-10 : waiting on tables for a table
+2014/12/05 15:04:10  Cook-3 : assigned to Table-4
+2014/12/05 15:04:10  Cook-3 : waiting for diner to place order
+2014/12/05 15:04:10  Cook-3 : looking for machines
+2014/12/05 15:04:10  Cook-3 : FriesMachine occupied
+2014/12/05 15:04:10  Diner-9 : waiting on table for food
+2014/12/05 15:04:10  Cook-2 : waiting on tables for a table
+2014/12/05 15:04:10  Number of diners in the restaurant : 10
+2014/12/05 15:04:10  Diner-10 : waiting on tables for a table
+2014/12/05 15:04:10  Current Time : 81
+2014/12/05 15:04:10  Cook-3 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:10  Diner-14 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-12 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-11 : waiting on tables for a table
+2014/12/05 15:04:10  Current Time : 82
+2014/12/05 15:04:10  Diner-15 : waiting on tables for a table
+2014/12/05 15:04:10  Current Time : 83
+2014/12/05 15:04:10  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:10  Cook-3 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:10  Cook-3 : looking for machines
+2014/12/05 15:04:10  Current Time : 84
+2014/12/05 15:04:10  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:10  Current Time : 85
+2014/12/05 15:04:10  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:10  Cook-0 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:10  Food served for Cook-0
+2014/12/05 15:04:10  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:10  Number of diners in the restaurant : 15
+2014/12/05 15:04:10  Cook-3 : BurgerMachine occupied
+2014/12/05 15:04:10  Diner-7 : Started Eating
+2014/12/05 15:04:10  Cook-3 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:10  Current Time : 86
+2014/12/05 15:04:10  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:10  Current Time : 87
+2014/12/05 15:04:10  Current Time : 88
+2014/12/05 15:04:10  Current Time : 89
+2014/12/05 15:04:10  Current Time : 90
+2014/12/05 15:04:10  Current Time : 91
+2014/12/05 15:04:10  Diner-5 : released Table-5
+2014/12/05 15:04:10  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:10  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:10  Number of diners in the restaurant : 15
+2014/12/05 15:04:10  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-15 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-11 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-12 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-14 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-10 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-10 : seated on Table-5
+2014/12/05 15:04:10  Diner-10 : placed order
+2014/12/05 15:04:10  Diner-10 : waiting on table for cook
+2014/12/05 15:04:10  Cook-2 : assigned to Table-5
+2014/12/05 15:04:10  Diner-14 : waiting on tables for a table
+2014/12/05 15:04:10  Cook-2 : waiting for diner to place order
+2014/12/05 15:04:10  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-10 : waiting on table for food
+2014/12/05 15:04:10  Cook-2 : looking for machines
+2014/12/05 15:04:10  Diner-12 : waiting on tables for a table
+2014/12/05 15:04:10  Cook-2 : FriesMachine occupied
+2014/12/05 15:04:10  Diner-11 : waiting on tables for a table
+2014/12/05 15:04:10  Cook-2 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:10  Diner-15 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:10  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:10  Number of diners in the restaurant : 15
+2014/12/05 15:04:10  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:10  Current Time : 92
+2014/12/05 15:04:10  Current Time : 93
+2014/12/05 15:04:10  Current Time : 94
+2014/12/05 15:04:10  Cook-2 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:10  Cook-2 : looking for machines
+2014/12/05 15:04:10  Current Time : 95
+2014/12/05 15:04:10  Current Time : 96
+2014/12/05 15:04:10  Cook-1 : BurgerMachine occupied
+2014/12/05 15:04:10  Cook-3 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:10  Food served for Cook-3
+2014/12/05 15:04:10  Diner-6 : released Table-0
+2014/12/05 15:04:10  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-9 : Started Eating
+2014/12/05 15:04:10  Cook-1 : Cooking on BurgerMachine for time 20
+2014/12/05 15:04:10  Number of diners in the restaurant : 14
+2014/12/05 15:04:10  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:10  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:10  Number of diners in the restaurant : 14
+2014/12/05 15:04:10  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-15 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-11 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-12 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-11 : seated on Table-0
+2014/12/05 15:04:10  Diner-11 : placed order
+2014/12/05 15:04:10  Diner-11 : waiting on table for cook
+2014/12/05 15:04:10  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-14 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-15 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:10  Cook-0 : assigned to Table-0
+2014/12/05 15:04:10  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:10  Cook-0 : waiting for diner to place order
+2014/12/05 15:04:10  Cook-0 : looking for machines
+2014/12/05 15:04:10  Cook-0 : SodaMachine occupied
+2014/12/05 15:04:10  Cook-0 : Cooking on SodaMachine for time 1
+2014/12/05 15:04:10  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:10  Number of diners in the restaurant : 14
+2014/12/05 15:04:10  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-11 : waiting on table for food
+2014/12/05 15:04:10  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-15 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-14 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:10  Diner-12 : waiting on tables for a table
+2014/12/05 15:04:10  Cook-0 : Done cooking and leaving SodaMachine
+2014/12/05 15:04:10  Cook-0 : looking for machines
+2014/12/05 15:04:10  Current Time : 97
+2014/12/05 15:04:10  Current Time : 98
+2014/12/05 15:04:10  Current Time : 99
+2014/12/05 15:04:11  Current Time : 100
+2014/12/05 15:04:11  Current Time : 101
+2014/12/05 15:04:11  Current Time : 102
+2014/12/05 15:04:11  Current Time : 103
+2014/12/05 15:04:11  Current Time : 104
+2014/12/05 15:04:11  Current Time : 105
+2014/12/05 15:04:11  Current Time : 106
+2014/12/05 15:04:11  Diner-2 : released Table-2
+2014/12/05 15:04:11  Diner-12 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-12 : seated on Table-2
+2014/12/05 15:04:11  Diner-12 : placed order
+2014/12/05 15:04:11  Diner-12 : waiting on table for cook
+2014/12/05 15:04:11  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-14 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-15 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:11  Cook-3 : assigned to Table-2
+2014/12/05 15:04:11  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:11  Cook-3 : waiting for diner to place order
+2014/12/05 15:04:11  Cook-3 : looking for machines
+2014/12/05 15:04:11  Cook-3 : FriesMachine occupied
+2014/12/05 15:04:11  Cook-3 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:11  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-12 : waiting on table for food
+2014/12/05 15:04:11  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-15 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-14 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:11  Current Time : 107
+2014/12/05 15:04:11  Current Time : 108
+2014/12/05 15:04:11  Current Time : 109
+2014/12/05 15:04:11  Cook-3 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:11  Cook-3 : looking for machines
+2014/12/05 15:04:11  Current Time : 110
+2014/12/05 15:04:11  Current Time : 111
+2014/12/05 15:04:11  Current Time : 112
+2014/12/05 15:04:11  Current Time : 113
+2014/12/05 15:04:11  Current Time : 114
+2014/12/05 15:04:11  Current Time : 115
+2014/12/05 15:04:11  Current Time : 116
+2014/12/05 15:04:11  Diner-7 : released Table-1
+2014/12/05 15:04:11  Diner-13 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-13 : seated on Table-1
+2014/12/05 15:04:11  Diner-13 : placed order
+2014/12/05 15:04:11  Diner-13 : waiting on table for cook
+2014/12/05 15:04:11  Diner-14 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-15 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:11  Cook-0 : BurgerMachine occupied
+2014/12/05 15:04:11  Cook-1 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:11  Food served for Cook-1
+2014/12/05 15:04:11  Cook-1 : assigned to Table-1
+2014/12/05 15:04:11  Cook-1 : waiting for diner to place order
+2014/12/05 15:04:11  Cook-1 : looking for machines
+2014/12/05 15:04:11  Diner-13 : waiting on table for food
+2014/12/05 15:04:11  Diner-8 : Started Eating
+2014/12/05 15:04:11  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-15 : waiting on tables for a table
+2014/12/05 15:04:11  Diner-14 : waiting on tables for a table
+2014/12/05 15:04:11  Cook-1 : FriesMachine occupied
+2014/12/05 15:04:11  Cook-1 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:11  Cook-0 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:11  Current Time : 117
+2014/12/05 15:04:11  Current Time : 118
+2014/12/05 15:04:11  Current Time : 119
+2014/12/05 15:04:11  Cook-1 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:11  Cook-1 : looking for machines
+2014/12/05 15:04:11  Cook-1 : SodaMachine occupied
+2014/12/05 15:04:11  Cook-1 : Cooking on SodaMachine for time 1
+2014/12/05 15:04:12  Current Time : 120
+2014/12/05 15:04:12  Cook-1 : Done cooking and leaving SodaMachine
+2014/12/05 15:04:12  Cook-1 : looking for machines
+2014/12/05 15:04:12  Current Time : 121
+2014/12/05 15:04:12  Current Time : 122
+2014/12/05 15:04:12  Current Time : 123
+2014/12/05 15:04:12  Current Time : 124
+2014/12/05 15:04:12  Current Time : 125
+2014/12/05 15:04:12  Current Time : 126
+2014/12/05 15:04:12  Diner-9 : released Table-4
+2014/12/05 15:04:12  Cook-3 : BurgerMachine occupied
+2014/12/05 15:04:12  Cook-0 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:12  Diner-14 : waiting on tables for a table
+2014/12/05 15:04:12  Diner-14 : seated on Table-4
+2014/12/05 15:04:12  Diner-14 : placed order
+2014/12/05 15:04:12  Diner-14 : waiting on table for cook
+2014/12/05 15:04:12  Food served for Cook-0
+2014/12/05 15:04:12  Diner-15 : waiting on tables for a table
+2014/12/05 15:04:12  Diner-11 : Started Eating
+2014/12/05 15:04:12  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:12  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:12  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:12  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:12  Cook-0 : assigned to Table-4
+2014/12/05 15:04:12  Cook-0 : waiting for diner to place order
+2014/12/05 15:04:12  Cook-0 : looking for machines
+2014/12/05 15:04:12  Cook-0 : FriesMachine occupied
+2014/12/05 15:04:12  Cook-0 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:12  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:12  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:12  Diner-14 : waiting on table for food
+2014/12/05 15:04:12  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:12  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:12  Diner-15 : waiting on tables for a table
+2014/12/05 15:04:12  Cook-3 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:12  Current Time : 127
+2014/12/05 15:04:12  Current Time : 128
+2014/12/05 15:04:12  Current Time : 129
+2014/12/05 15:04:12  Cook-0 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:12  Cook-0 : looking for machines
+2014/12/05 15:04:12  Current Time : 130
+2014/12/05 15:04:12  Current Time : 131
+2014/12/05 15:04:12  Current Time : 132
+2014/12/05 15:04:12  Current Time : 133
+2014/12/05 15:04:12  Current Time : 134
+2014/12/05 15:04:12  Current Time : 135
+2014/12/05 15:04:12  Current Time : 136
+2014/12/05 15:04:12  Cook-3 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:12  Food served for Cook-3
+2014/12/05 15:04:12  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:12  Diner-12 : Started Eating
+2014/12/05 15:04:12  Cook-2 : BurgerMachine occupied
+2014/12/05 15:04:12  Cook-2 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:12  Number of diners in the restaurant : 11
+2014/12/05 15:04:12  Current Time : 137
+2014/12/05 15:04:13  Current Time : 138
+2014/12/05 15:04:13  Current Time : 139
+2014/12/05 15:04:13  Current Time : 140
+2014/12/05 15:04:13  Current Time : 141
+2014/12/05 15:04:13  Current Time : 142
+2014/12/05 15:04:13  Current Time : 143
+2014/12/05 15:04:13  Current Time : 144
+2014/12/05 15:04:13  Current Time : 145
+2014/12/05 15:04:13  Current Time : 146
+2014/12/05 15:04:13  Cook-2 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:13  Food served for Cook-2
+2014/12/05 15:04:13  Diner-10 : Started Eating
+2014/12/05 15:04:13  Diner-8 : released Table-3
+2014/12/05 15:04:13  Cook-2 : waiting on tables for a table
+2014/12/05 15:04:13  Number of diners in the restaurant : 10
+2014/12/05 15:04:13  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:13  Number of diners in the restaurant : 10
+2014/12/05 15:04:13  Diner-15 : waiting on tables for a table
+2014/12/05 15:04:13  Diner-15 : seated on Table-3
+2014/12/05 15:04:13  Diner-15 : placed order
+2014/12/05 15:04:13  Diner-15 : waiting on table for cook
+2014/12/05 15:04:13  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:13  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:13  Cook-0 : BurgerMachine occupied
+2014/12/05 15:04:13  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:13  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:13  Cook-3 : assigned to Table-3
+2014/12/05 15:04:13  Cook-3 : waiting for diner to place order
+2014/12/05 15:04:13  Cook-3 : looking for machines
+2014/12/05 15:04:13  Diner-15 : waiting on table for food
+2014/12/05 15:04:13  Cook-2 : waiting on tables for a table
+2014/12/05 15:04:13  Number of diners in the restaurant : 10
+2014/12/05 15:04:13  Cook-0 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:13  Cook-3 : SodaMachine occupied
+2014/12/05 15:04:13  Cook-3 : Cooking on SodaMachine for time 1
+2014/12/05 15:04:13  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:13  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:13  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:13  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:13  Current Time : 147
+2014/12/05 15:04:13  Cook-3 : Done cooking and leaving SodaMachine
+2014/12/05 15:04:13  Cook-3 : looking for machines
+2014/12/05 15:04:13  Current Time : 148
+2014/12/05 15:04:13  Current Time : 149
+2014/12/05 15:04:13  Current Time : 150
+2014/12/05 15:04:13  Current Time : 151
+2014/12/05 15:04:13  Current Time : 152
+2014/12/05 15:04:13  Current Time : 153
+2014/12/05 15:04:13  Current Time : 154
+2014/12/05 15:04:13  Current Time : 155
+2014/12/05 15:04:13  Current Time : 156
+2014/12/05 15:04:13  Cook-1 : BurgerMachine occupied
+2014/12/05 15:04:13  Cook-1 : Cooking on BurgerMachine for time 5
+2014/12/05 15:04:13  Cook-0 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:13  Food served for Cook-0
+2014/12/05 15:04:13  Diner-11 : released Table-0
+2014/12/05 15:04:13  Diner-14 : Started Eating
+2014/12/05 15:04:13  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:13  Number of diners in the restaurant : 9
+2014/12/05 15:04:13  Diner-16 : waiting on tables for a table
+2014/12/05 15:04:13  Diner-16 : seated on Table-0
+2014/12/05 15:04:13  Diner-16 : placed order
+2014/12/05 15:04:13  Diner-16 : waiting on table for cook
+2014/12/05 15:04:13  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:13  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:13  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:13  Cook-2 : assigned to Table-0
+2014/12/05 15:04:13  Cook-2 : waiting for diner to place order
+2014/12/05 15:04:13  Cook-2 : looking for machines
+2014/12/05 15:04:13  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:13  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:13  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:13  Cook-2 : FriesMachine occupied
+2014/12/05 15:04:13  Cook-2 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:13  Diner-16 : waiting on table for food
+2014/12/05 15:04:13  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:13  Number of diners in the restaurant : 9
+2014/12/05 15:04:13  Current Time : 157
+2014/12/05 15:04:14  Current Time : 158
+2014/12/05 15:04:14  Current Time : 159
+2014/12/05 15:04:14  Cook-2 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:14  Cook-2 : looking for machines
+2014/12/05 15:04:14  Current Time : 160
+2014/12/05 15:04:14  Current Time : 161
+2014/12/05 15:04:14  Cook-1 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:14  Food served for Cook-1
+2014/12/05 15:04:14  Cook-1 : waiting on tables for a table
+2014/12/05 15:04:14  Number of diners in the restaurant : 9
+2014/12/05 15:04:14  Diner-13 : Started Eating
+2014/12/05 15:04:14  Cook-3 : BurgerMachine occupied
+2014/12/05 15:04:14  Cook-3 : Cooking on BurgerMachine for time 20
+2014/12/05 15:04:14  Current Time : 162
+2014/12/05 15:04:14  Current Time : 163
+2014/12/05 15:04:14  Current Time : 164
+2014/12/05 15:04:14  Current Time : 165
+2014/12/05 15:04:14  Current Time : 166
+2014/12/05 15:04:14  Diner-12 : released Table-2
+2014/12/05 15:04:14  Cook-1 : waiting on tables for a table
+2014/12/05 15:04:14  Number of diners in the restaurant : 8
+2014/12/05 15:04:14  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:14  Number of diners in the restaurant : 8
+2014/12/05 15:04:14  Diner-17 : waiting on tables for a table
+2014/12/05 15:04:14  Diner-17 : seated on Table-2
+2014/12/05 15:04:14  Diner-17 : placed order
+2014/12/05 15:04:14  Diner-17 : waiting on table for cook
+2014/12/05 15:04:14  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:14  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:14  Cook-0 : assigned to Table-2
+2014/12/05 15:04:14  Cook-0 : waiting for diner to place order
+2014/12/05 15:04:14  Cook-0 : looking for machines
+2014/12/05 15:04:14  Diner-17 : waiting on table for food
+2014/12/05 15:04:14  Cook-1 : waiting on tables for a table
+2014/12/05 15:04:14  Number of diners in the restaurant : 8
+2014/12/05 15:04:14  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:14  Cook-0 : FriesMachine occupied
+2014/12/05 15:04:14  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:14  Cook-0 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:14  Current Time : 167
+2014/12/05 15:04:14  Current Time : 168
+2014/12/05 15:04:14  Current Time : 169
+2014/12/05 15:04:14  Cook-0 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:14  Cook-0 : looking for machines
+2014/12/05 15:04:14  Current Time : 170
+2014/12/05 15:04:14  Current Time : 171
+2014/12/05 15:04:14  Current Time : 172
+2014/12/05 15:04:14  Current Time : 173
+2014/12/05 15:04:14  Current Time : 174
+2014/12/05 15:04:14  Current Time : 175
+2014/12/05 15:04:14  Current Time : 176
+2014/12/05 15:04:14  Diner-10 : released Table-5
+2014/12/05 15:04:14  Diner-18 : waiting on tables for a table
+2014/12/05 15:04:14  Diner-18 : seated on Table-5
+2014/12/05 15:04:14  Diner-18 : placed order
+2014/12/05 15:04:14  Diner-18 : waiting on table for cook
+2014/12/05 15:04:14  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:14  Cook-1 : assigned to Table-5
+2014/12/05 15:04:14  Cook-1 : waiting for diner to place order
+2014/12/05 15:04:14  Cook-1 : looking for machines
+2014/12/05 15:04:14  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:14  Diner-18 : waiting on table for food
+2014/12/05 15:04:14  Cook-1 : SodaMachine occupied
+2014/12/05 15:04:14  Cook-1 : Cooking on SodaMachine for time 1
+2014/12/05 15:04:14  Current Time : 177
+2014/12/05 15:04:14  Cook-1 : Done cooking and leaving SodaMachine
+2014/12/05 15:04:14  Cook-1 : looking for machines
+2014/12/05 15:04:15  Current Time : 178
+2014/12/05 15:04:15  Current Time : 179
+2014/12/05 15:04:15  Current Time : 180
+2014/12/05 15:04:15  Current Time : 181
+2014/12/05 15:04:15  Cook-3 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:15  Food served for Cook-3
+2014/12/05 15:04:15  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:15  Number of diners in the restaurant : 7
+2014/12/05 15:04:15  Diner-15 : Started Eating
+2014/12/05 15:04:15  Cook-0 : BurgerMachine occupied
+2014/12/05 15:04:15  Cook-0 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:15  Current Time : 182
+2014/12/05 15:04:15  Current Time : 183
+2014/12/05 15:04:15  Current Time : 184
+2014/12/05 15:04:15  Current Time : 185
+2014/12/05 15:04:15  Current Time : 186
+2014/12/05 15:04:15  Diner-14 : released Table-4
+2014/12/05 15:04:15  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:15  Number of diners in the restaurant : 6
+2014/12/05 15:04:15  Diner-19 : waiting on tables for a table
+2014/12/05 15:04:15  Diner-19 : seated on Table-4
+2014/12/05 15:04:15  Diner-19 : placed order
+2014/12/05 15:04:15  Diner-19 : waiting on table for cook
+2014/12/05 15:04:15  Cook-3 : assigned to Table-4
+2014/12/05 15:04:15  Cook-3 : waiting for diner to place order
+2014/12/05 15:04:15  Cook-3 : looking for machines
+2014/12/05 15:04:15  Cook-3 : FriesMachine occupied
+2014/12/05 15:04:15  Cook-3 : Cooking on FriesMachine for time 3
+2014/12/05 15:04:15  Diner-19 : waiting on table for food
+2014/12/05 15:04:15  Current Time : 187
+2014/12/05 15:04:15  Current Time : 188
+2014/12/05 15:04:15  Current Time : 189
+2014/12/05 15:04:15  Cook-3 : Done cooking and leaving FriesMachine
+2014/12/05 15:04:15  Cook-3 : looking for machines
+2014/12/05 15:04:15  Current Time : 190
+2014/12/05 15:04:15  Current Time : 191
+2014/12/05 15:04:15  Diner-13 : released Table-1
+2014/12/05 15:04:15  Cook-2 : BurgerMachine occupied
+2014/12/05 15:04:15  Cook-0 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:15  Food served for Cook-0
+2014/12/05 15:04:15  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:15  Number of diners in the restaurant : 5
+2014/12/05 15:04:15  Diner-17 : Started Eating
+2014/12/05 15:04:15  Cook-2 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:15  Current Time : 192
+2014/12/05 15:04:15  Current Time : 193
+2014/12/05 15:04:15  Current Time : 194
+2014/12/05 15:04:15  Current Time : 195
+2014/12/05 15:04:15  Current Time : 196
+2014/12/05 15:04:15  Current Time : 197
+2014/12/05 15:04:16  Current Time : 198
+2014/12/05 15:04:16  Current Time : 199
+2014/12/05 15:04:16  Current Time : 200
+2014/12/05 15:04:16  Current Time : 201
+2014/12/05 15:04:16  Cook-3 : BurgerMachine occupied
+2014/12/05 15:04:16  Cook-2 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:16  Food served for Cook-2
+2014/12/05 15:04:16  Cook-3 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:16  Diner-16 : Started Eating
+2014/12/05 15:04:16  Cook-2 : waiting on tables for a table
+2014/12/05 15:04:16  Number of diners in the restaurant : 5
+2014/12/05 15:04:16  Current Time : 202
+2014/12/05 15:04:16  Current Time : 203
+2014/12/05 15:04:16  Current Time : 204
+2014/12/05 15:04:16  Current Time : 205
+2014/12/05 15:04:16  Current Time : 206
+2014/12/05 15:04:16  Current Time : 207
+2014/12/05 15:04:16  Current Time : 208
+2014/12/05 15:04:16  Current Time : 209
+2014/12/05 15:04:16  Current Time : 210
+2014/12/05 15:04:16  Current Time : 211
+2014/12/05 15:04:16  Diner-15 : released Table-3
+2014/12/05 15:04:16  Cook-2 : waiting on tables for a table
+2014/12/05 15:04:16  Number of diners in the restaurant : 4
+2014/12/05 15:04:16  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:16  Number of diners in the restaurant : 4
+2014/12/05 15:04:16  Cook-3 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:16  Food served for Cook-3
+2014/12/05 15:04:16  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:16  Number of diners in the restaurant : 4
+2014/12/05 15:04:16  Cook-1 : BurgerMachine occupied
+2014/12/05 15:04:16  Diner-19 : Started Eating
+2014/12/05 15:04:16  Cook-1 : Cooking on BurgerMachine for time 10
+2014/12/05 15:04:16  Current Time : 212
+2014/12/05 15:04:16  Current Time : 213
+2014/12/05 15:04:16  Current Time : 214
+2014/12/05 15:04:16  Current Time : 215
+2014/12/05 15:04:16  Current Time : 216
+2014/12/05 15:04:16  Current Time : 217
+2014/12/05 15:04:17  Current Time : 218
+2014/12/05 15:04:17  Current Time : 219
+2014/12/05 15:04:17  Current Time : 220
+2014/12/05 15:04:17  Current Time : 221
+2014/12/05 15:04:17  Cook-1 : Done cooking and leaving BurgerMachine
+2014/12/05 15:04:17  Food served for Cook-1
+2014/12/05 15:04:17  Diner-17 : released Table-2
+2014/12/05 15:04:17  Diner-18 : Started Eating
+2014/12/05 15:04:17  Cook-1 : waiting on tables for a table
+2014/12/05 15:04:17  Number of diners in the restaurant : 3
+2014/12/05 15:04:17  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:17  Number of diners in the restaurant : 3
+2014/12/05 15:04:17  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:17  Number of diners in the restaurant : 3
+2014/12/05 15:04:17  Cook-2 : waiting on tables for a table
+2014/12/05 15:04:17  Number of diners in the restaurant : 3
+2014/12/05 15:04:17  Current Time : 222
+2014/12/05 15:04:17  Current Time : 223
+2014/12/05 15:04:17  Current Time : 224
+2014/12/05 15:04:17  Current Time : 225
+2014/12/05 15:04:17  Current Time : 226
+2014/12/05 15:04:17  Current Time : 227
+2014/12/05 15:04:17  Current Time : 228
+2014/12/05 15:04:17  Current Time : 229
+2014/12/05 15:04:17  Current Time : 230
+2014/12/05 15:04:17  Current Time : 231
+2014/12/05 15:04:17  Diner-16 : released Table-0
+2014/12/05 15:04:17  Cook-2 : waiting on tables for a table
+2014/12/05 15:04:17  Number of diners in the restaurant : 2
+2014/12/05 15:04:17  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:17  Number of diners in the restaurant : 2
+2014/12/05 15:04:17  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:17  Number of diners in the restaurant : 2
+2014/12/05 15:04:17  Cook-1 : waiting on tables for a table
+2014/12/05 15:04:17  Number of diners in the restaurant : 2
+2014/12/05 15:04:17  Current Time : 232
+2014/12/05 15:04:17  Current Time : 233
+2014/12/05 15:04:17  Current Time : 234
+2014/12/05 15:04:17  Current Time : 235
+2014/12/05 15:04:17  Current Time : 236
+2014/12/05 15:04:17  Current Time : 237
+2014/12/05 15:04:18  Current Time : 238
+2014/12/05 15:04:18  Current Time : 239
+2014/12/05 15:04:18  Current Time : 240
+2014/12/05 15:04:18  Current Time : 241
+2014/12/05 15:04:18  Diner-19 : released Table-4
+2014/12/05 15:04:18  Cook-1 : waiting on tables for a table
+2014/12/05 15:04:18  Number of diners in the restaurant : 1
+2014/12/05 15:04:18  Cook-3 : waiting on tables for a table
+2014/12/05 15:04:18  Number of diners in the restaurant : 1
+2014/12/05 15:04:18  Cook-0 : waiting on tables for a table
+2014/12/05 15:04:18  Number of diners in the restaurant : 1
+2014/12/05 15:04:18  Cook-2 : waiting on tables for a table
+2014/12/05 15:04:18  Number of diners in the restaurant : 1
+2014/12/05 15:04:18  Current Time : 242
+2014/12/05 15:04:18  Current Time : 243
+2014/12/05 15:04:18  Current Time : 244
+2014/12/05 15:04:18  Current Time : 245
+2014/12/05 15:04:18  Current Time : 246
+2014/12/05 15:04:18  Current Time : 247
+2014/12/05 15:04:18  Current Time : 248
+2014/12/05 15:04:18  Current Time : 249
+2014/12/05 15:04:18  Current Time : 250
+2014/12/05 15:04:18  Current Time : 251
+2014/12/05 15:04:18  Diner-18 : released Table-5
